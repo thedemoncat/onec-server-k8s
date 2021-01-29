@@ -1,0 +1,3 @@
+[submodule "onec-server"]
+	path = onec-server
+	url = https://github.com/TheDemonCat/onec-server.git
